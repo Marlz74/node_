@@ -1,0 +1,1 @@
+module.exports={name:'sd',id:1}
